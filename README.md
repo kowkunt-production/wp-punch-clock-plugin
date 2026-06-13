@@ -1,5 +1,5 @@
 # wp-punch-clock-plugin
-A WP plugin connects to attendance devices and uploads attendance data, then enters this data into working hours to be converted into payroll with the given Member-ID.
+A WP plugin connects to the camera to take a picture of a person then uploads image with it's metadata including the coordinates to calculate the distance between start|destination<IN/OUT>|end points later, then enters this data into working hours to be converted into payroll with the given Member-ID and email the records to the member, owner of the member-id and admin.
 
 ## How It Works:
 ### 1. [Understanding the code](https://github.com/kowkunt-production/wp-punch-clock-plugin/blob/main/documentation/understanding-the-wp-punch-clock-plugin.md) 
