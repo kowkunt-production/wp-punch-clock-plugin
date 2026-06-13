@@ -3,7 +3,7 @@ A WP plugin connects to attendance devices and uploads attendance data, then ent
 
 ## How It Works:
 ### 1. [Understanding the code](https://github.com/kowkunt-production/wp-punch-clock-plugin/blob/main/documentation/understanding-the-wp-punch-clock-plugin.md) 
-### 2. [Algorithms Pseudocode](#)
-### 3. [WP Plugin](#)
-### 4. [Usage](#)
-### 5. [Export data](#)
+### 2. [Algorithms Pseudocode]([wp-punch-clock-plugin-algorithms-pseudocode)](https://github.com/kowkunt-production/wp-punch-clock-plugin/blob/main/documentation/wp-punch-clock-plugin-algorithms-pseudocode.md)
+### 3. [WP Plugin](https://github.com/kowkunt-production/wp-punch-clock-plugin/blob/main/documentation/wp-punch-clock-plugin.md)
+### 4. [Usage](https://github.com/kowkunt-production/wp-punch-clock-plugin/blob/main/documentation/wp-punch-clock-plugin-usage.md)
+### 5. [Export data](https://github.com/kowkunt-production/wp-punch-clock-plugin/blob/main/documentation/wp-punch-clock-plugin-export-data.md)
