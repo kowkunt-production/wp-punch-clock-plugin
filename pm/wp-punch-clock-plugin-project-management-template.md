@@ -1,7 +1,9 @@
 # PROJECT MANAGEMENT PLAN
 
 ## *WP Punch Clock Plugin*
-WordPress Punch Clock Plugin Development template.  WP Punch Clock Plugin is applicable to any organisation with field workers.
+WP Punch Clock Plugin Project Management Plan is a "by the book" template aligned with PMBOK/PMI best practices, tailored specifically to a WordPress plugin development project.  You can drop this directly into your PM tool.
+
+WP Punch Clock Plugin is applicable to any organisation with field workers.
 
 | Document Control | |
 |-------------------|---|
